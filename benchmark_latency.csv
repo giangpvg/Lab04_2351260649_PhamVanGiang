@@ -1,0 +1,4 @@
+Sentence_ID,Text,Concat_Dur_s,Concat_Lat_s,HMM_Dur_s,HMM_Lat_s,Neural_Dur_s,Neural_Lat_s
+Sentence_1,Mời khách hàng số 23 đến quầy 5,4.358,0.0083,2.44,0.0075,2.696,0.6983
+Sentence_2,Mời khách hàng số 104 đến quầy 2,4.762,0.016,2.67,0.0107,3.184,0.9446
+Sentence_3,Mời khách hàng số 79 đến quầy 8,4.287,0.0319,2.4,0.0136,2.896,0.6114
